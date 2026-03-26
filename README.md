@@ -16,9 +16,5 @@ I'm a Software Developer and YouTube Content Creator. I'm passionate about web d
 
 * **🤖 [OdexAI](https://odexai.xyz)** (closed source) An advanced Discord bot and its associated web platform, built to provide professional services.
 
-### 📺 Catch Me on YouTube:
-I create content focused on game programming and development on my channel:
-* [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MahmoudLevelUp)
-
 ### 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudrafatdev/)
