@@ -16,8 +16,6 @@ I'm a Software Developer and YouTube Content Creator. I'm passionate about web d
 
 * **[OdexAI](#):** An advanced Discord bot and its associated web platform, built to provide professional services.
 * **Programming Learning Platform:** An interactive web platform designed to make learning programming easier and more accessible.
-* **[Marwa El-Abd Charity Foundation](https://marwaelabd.com/):** Developed the foundation's website, integrating donation systems and volunteer application processes.
-* **Roblox Game Development:** Designing and programming interactive gaming experiences.
 
 ### 📺 Catch Me on YouTube:
 I create content focused on game programming and development on my channel:
