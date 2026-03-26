@@ -1,4 +1,4 @@
-# Hi there, I'm Mahmoud 👋
+# Hi, I'm Mahmoud 👋
 
 I'm a Software Developer and YouTube Content Creator. I'm passionate about web development, Discord bot programming, and game development. I'm always eager to learn new technologies and turn ideas into real-world projects.
 
