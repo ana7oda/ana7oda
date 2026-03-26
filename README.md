@@ -14,7 +14,7 @@ I'm a Software Developer and YouTube Content Creator. I'm passionate about web d
 
 ### 🚀 Featured Projects:
 
-* **🤖[OdexAI](#):** An advanced Discord bot and its associated web platform, built to provide professional services.
+* **🤖 [OdexAI](#):** An advanced Discord bot and its associated web platform, built to provide professional services.
 * **Programming Learning Platform:** An interactive web platform designed to make learning programming easier and more accessible.
 
 ### 📺 Catch Me on YouTube:
